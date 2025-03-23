@@ -4,14 +4,6 @@
   Real-time face swap and video deepfake with a single click and only a single image.
 </p>
 
-<p align="center">
-<a href="https://trendshift.io/repositories/11395" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11395" alt="hacksider%2FDeep-Live-Cam | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</p>
-
-<p align="center">
-  <img src="media/demo.gif" alt="Demo GIF" width="800">
-</p>
-
 ##  Disclaimer
 
 This deepfake software is designed to be a productive tool for the AI-generated media industry. It can assist artists in animating custom characters, creating engaging content, and even using models for clothing design.
@@ -33,14 +25,11 @@ Users are expected to use this software responsibly and legally. If using a real
 
 ## Quick Start - Pre-built (Windows / Nvidia)
 
-  <a href="https://hacksider.gumroad.com/l/vccdmm"> <img src="https://github.com/user-attachments/assets/7d993b32-e3e8-4cd3-bbfb-a549152ebdd5" width="285" height="77" />
-
 ##### This is the fastest build you can get if you have a discrete NVIDIA GPU.
  
 ###### These Pre-builts are perfect for non-technical users or those who don’t have time to, or can't manually install all the requirements. Just a heads-up: this is an open-source project, so you can also install it manually.
 
 ## TLDR; Live Deepfake in just 3 Clicks
-![easysteps](https://github.com/user-attachments/assets/af825228-852c-411b-b787-ffd9aac72fc6)
 1. Select a face
 2. Select which camera to use
 3. Press live!
@@ -51,51 +40,28 @@ Users are expected to use this software responsibly and legally. If using a real
 
 **Retain your original mouth for accurate movement using Mouth Mask**
 
-<p align="center">
-  <img src="media/ludwig.gif" alt="resizable-gif">
-</p>
 
 ### Face Mapping
 
 **Use different faces on multiple subjects simultaneously**
 
-<p align="center">
-  <img src="media/streamers.gif" alt="face_mapping_source">
-</p>
 
 ### Your Movie, Your Face
 
 **Watch movies with any face in real-time**
 
-<p align="center">
-  <img src="media/movie.gif" alt="movie">
-</p>
 
 ### Live Show
 
 **Run Live shows and performances**
 
-<p align="center">
-  <img src="media/live_show.gif" alt="show">
-</p>
-
 ### Memes
 
 **Create Your Most Viral Meme Yet**
 
-<p align="center">
-  <img src="media/meme.gif" alt="show" width="450"> 
-  <br>
-  <sub>Created using Many Faces feature in Deep-Live-Cam</sub>
-</p>
-
 ### Omegle
 
 **Surprise people on Omegle**
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2e9b9b82-fa04-4b70-9f56-b1f68e7672d0" width="450" controls></video>
-</p>
 
 ## Installation (Manual)
 
